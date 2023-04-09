@@ -5,7 +5,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pavan-naik-155907205/)
 
-[![Instagram Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pavan-naik-155907205/)
 
 <!---
 pavan2205/pavan2205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
