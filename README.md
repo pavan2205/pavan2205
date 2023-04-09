@@ -2,6 +2,7 @@
 - 👀 I’m interested in Android and web development
 - 🌱 I’m currently learning flutter
 - 📫 reach me at pavannaik2205@gmail.com \
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pavan-naik-155907205/)
 
 <!---
