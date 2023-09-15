@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pavan2205
+- 👋 Hi, I’m Pavan Naik
 - 👀 I’m interested in Android and web development
 - 🌱 I’m currently learning flutter
 - 📫 reach me at pavannaik2205@gmail.com \
